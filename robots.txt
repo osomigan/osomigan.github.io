@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://osomigan.github.io/sitemap.html.gz
+Sitemap: https://osomigan.github.io/app/sitemap.html.gz
+Sitemap: https://osomigan.github.io/assets/sitemap.html.gz
+Sitemap: https://osomigan.github.io/css/sitemap.html.gz
+Sitemap: https://osomigan.github.io/includes/sitemap.html.gz
+Sitemap: https://osomigan.github.io/item/sitemap.html.gz
+Sitemap: https://osomigan.github.io/src/sitemap.html.gz
